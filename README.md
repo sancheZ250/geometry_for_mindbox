@@ -1,0 +1,1 @@
+# geometry_for_mindbox
